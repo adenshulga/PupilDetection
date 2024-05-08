@@ -3,7 +3,7 @@ Here i have tested CNN + HOPLS algorithm on task of eye pupil position recogniti
 
 Data can be found here: https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/gaze-based-human-computer-interaction/labelled-pupils-in-the-wild-lpw
 
-
+Файл output_video.avi содержит сравнение ground truth разметки(красный) с моими предсказаниями(зеленый)
 
 
 
