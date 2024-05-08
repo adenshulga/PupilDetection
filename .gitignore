@@ -1,0 +1,7 @@
+data/
+__pycache__/
+ground_truth.npy
+saved_models/
+new_features.npy
+
+
